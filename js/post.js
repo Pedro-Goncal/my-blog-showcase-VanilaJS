@@ -1,6 +1,6 @@
-const API_URL = "http://localhost:3000/api/posts/";
-const API_BASE_URL = "http://localhost:3000/";
-const API_DELETE_URL = "http://localhost:3000/api/delete";
+const API_URL = "https://my-blog-showcase.herokuapp.com/api/posts/";
+const API_BASE_URL = "https://my-blog-showcase.herokuapp.com/";
+const API_DELETE_URL = "https://my-blog-showcase.herokuapp.com/api/delete";
 
 window.onload = () => {
   getPost();

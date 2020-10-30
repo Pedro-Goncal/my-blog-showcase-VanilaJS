@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/posts";
+const API_URL = "https://my-blog-showcase.herokuapp.com/api/posts";
 
 const submitNewPost = () => {
   const input = document.getElementById("form-post-image");
