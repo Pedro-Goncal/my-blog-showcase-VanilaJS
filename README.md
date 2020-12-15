@@ -1,8 +1,10 @@
-#Vanila JavaScript, simple blog, with call to a nodeJs express server
+# My BLOG app
 
-Features:
--Access to posts in data base, and indevidual post
--Post a new post
--Delete indevidual post
+### Vanila JavaScript simple blog, with call to a nodeJs express server
 
-Check out my profile on LinkedIn www.linkedin.com/in/pedro-goncalves-b57b681b7
+### Features:
+* Access to posts in data base, and indevidual post
+* Post a new post
+* Delete indevidual post
+
+#### For More info Please check out my [LinkedIn](https://www.linkedin.com/in/pedro-goncalves88)
