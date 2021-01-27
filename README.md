@@ -2,6 +2,8 @@
 
 ### Vanila JavaScript simple blog, with call to a nodeJs express server
 
+Check it out live [here](https://wizardly-thompson-bb25fc.netlify.app/index.html)
+
 ### Features:
 * Access to posts in data base, and indevidual post
 * Post a new post
